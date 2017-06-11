@@ -20,7 +20,7 @@ Compose is a tool for defining and running multi-container Docker applications. 
     docker-compose up -d
 
 ## Stop
-    docker-compose stop <name>
+    docker-compose stop
 
 ## Result Image
 Build Proccess
