@@ -22,5 +22,12 @@ Compose is a tool for defining and running multi-container Docker applications. 
 ## Stop
     docker-compose stop <name>
 
+## Result Image
+Build Proccess
 
+![Build Proccess](https://github.com/fuadajip/docker-compose-sample/blob/master/proccess.png)
+
+Result
+
+![Result](https://github.com/fuadajip/docker-compose-sample/blob/master/result.png)
 
